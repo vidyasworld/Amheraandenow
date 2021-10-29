@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+Starting my travels - a sort of rebirthing...
 
 [Link](url) and ![Image](src)
 ```
